@@ -14,9 +14,8 @@
 ![Image URL](https://img.icons8.com/nolan/50/java-coffee-cup-logo.png)
 ![Image URL](https://img.icons8.com/color/50/000000/linux--v2.png)
 
-
-
-
+![Image URL](https://img.icons8.com/color/50/000000/android-studio--v2.png)
+![Image URL](https://img.icons8.com/color/50/000000/pycharm.png)
 
 --------------------------------------------------------------------------
 
