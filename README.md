@@ -5,7 +5,8 @@
 - 🔭 I’m a Jr. Software Developer
 - 🌱 I'am learning kotlin
 - 💬 About Question, can write to message in twitter and linkedin ...
---------------------------------------------------------------------------
+- 👍 I'm Writing code in Python , Java , C/C++ 
+-------------------------------------------------------------------------
 ### Language and Tools
 ![Image URL](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/python-icon.png)
 ![Image URL](https://img.icons8.com/color/48/000000/kotlin.png)
