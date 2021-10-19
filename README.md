@@ -3,7 +3,8 @@
 ![Alt Text](https://i.giphy.com/media/10a9ikXNvR9MXe/giphy.webp)
 --------------------------------------------------------------------------
 - 🔭 I’m a Jr. Software Developer
-- 🌱 I'am learning kotlin
+- 🌱 I am writing code Android to now✌
+- ✨ I am prefering to Kotlin for Android
 - 💬 About Question, can write to message in twitter and linkedin ...
 - 👍 I'm Writing code in Python , Java , C/C++ 
 -------------------------------------------------------------------------
