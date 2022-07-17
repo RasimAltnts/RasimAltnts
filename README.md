@@ -2,7 +2,7 @@
 
 ![Alt Text](https://i.giphy.com/media/10a9ikXNvR9MXe/giphy.webp)
 --------------------------------------------------------------------------
-- 🔭 I’m a Jr. Software Developer
+- 🔭 I’m a Jr. Android Developer
 - 🌱 I am writing code Android to now✌
 - ✨ I am prefering to Kotlin for Android
 - 💬 About Question, can write to message in twitter and linkedin ...
@@ -11,8 +11,6 @@
 ### Language and Tools
 ![Image URL](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/python-icon.png)
 ![Image URL](https://img.icons8.com/color/48/000000/kotlin.png)
-![Image URL](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png)
-![Image URL](https://img.icons8.com/color/50/000000/c-programming.png)
 ![Image URL](https://img.icons8.com/nolan/50/java-coffee-cup-logo.png)
 ![Image URL](https://img.icons8.com/color/50/000000/linux--v2.png)
 
