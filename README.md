@@ -2,7 +2,7 @@
 
 ![Alt Text](https://i.giphy.com/media/10a9ikXNvR9MXe/giphy.webp)
 --------------------------------------------------------------------------
-- 🔭 I’m a Jr. Android Developer
+- 🔭 I’m a Android Developer
 - 🌱 I am writing code Android to now✌
 - ✨ I am prefering to Kotlin for Android
 - 💬 About Question, can write to message in twitter and linkedin ...
