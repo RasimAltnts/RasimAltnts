@@ -6,7 +6,7 @@
 - 🌱 I am writing code Android to now✌
 - ✨ I am prefering to Kotlin for Android
 - 💬 About Question, can write to message in twitter and linkedin ...
-- 👍 I'm Writing code in Python , Java , C/C++ 
+- 👍 I'm Writing code in Kotlin
 -------------------------------------------------------------------------
 ### Language and Tools
 ![Image URL](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/python-icon.png)
