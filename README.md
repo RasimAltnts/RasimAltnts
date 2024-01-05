@@ -18,7 +18,6 @@
 
 --------------------------------------------------------------------------
 
-[![Twitter URL](https://img.icons8.com/ios/50/000000/twitter--v2.png)](https://twitter.com/Rsm_Altnts)
-[![Instagram URL](https://img.icons8.com/ios/50/000000/instagram-new--v3.png)](https://www.instagram.com/rasimaltnts/)
-[![Linkedin URL](https://img.icons8.com/ios/50/000000/linkedin-circled--v5.pn)](https://www.linkedin.com/in/rasim-altunta%C5%9F-8111b3197/)
+[![Twitter URL](https://img.icons8.com/?size=48&id=yoQabS8l0qpr&format=png)](https://twitter.com/Rsm_Altnts)
+[![Linkedin URL](https://img.icons8.com/?size=48&id=13930&format=png)](https://www.linkedin.com/in/rasim-altunta%C5%9F-8111b3197/)
 
